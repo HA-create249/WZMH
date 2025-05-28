@@ -13,7 +13,7 @@ from nltk.tokenize import word_tokenize
 import os
 
 # config.py
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "YOUR_OPENAI_KEY"
 
 # mental_health_knowledge.py
 
